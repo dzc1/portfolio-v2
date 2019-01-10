@@ -2944,11 +2944,13 @@ html.no-csstransitions .home-content__main {
     bottom: 10rem;
     padding: 0;
     z-index: 2;
-    -webkit-transform: translate3d(0, 50%, 0);
-    -ms-transform: translate3d(0, 50%, 0);
-    transform: translate3d(0, 50%, 0);
-    -webkit-transition: all 0.1s ease-in-out;
-    transition: all 0.1s ease-in-out;
+    opacity: 0;
+    visibility: hidden;
+    -webkit-transform: translate3d(0, 100%, 0);
+    -ms-transform: translate3d(0, 100%, 0);
+    transform: translate3d(0, 100%, 0);
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
 }
 
 .item-folio__title {
@@ -4095,4 +4097,38 @@ footer .row {
  * ------------------------------------------------------------------- */
 .ironhack{
     padding-top: 1rem;
+}
+
+
+/* ------------------------------------------------------------------- 
+ * ## Flexbox for images on index html 
+ * ------------------------------------------------------------------- */
+
+.cool { 
+  /* padding: .5vw; */
+  font-size: 0;
+  display: -ms-flexbox;
+  -ms-flex-wrap: wrap;
+  -ms-flex-direction: column;
+  -webkit-flex-flow: row wrap; 
+  flex-flow: row wrap; 
+  display: -webkit-box;
+  display: flex;
+}
+.paris { 
+  -webkit-box-flex: auto;
+  -ms-flex: auto;
+  flex: auto; 
+  width: 500px; 
+  /* margin: .5vw;  */
+  
+}
+.projects { 
+  width: 100%; 
+  height: auto; 
+}
+@media screen and (max-width: 400px) {
+  .paris { margin: 0; }
+  .cool { padding: 0; }
+  
 }
