@@ -2779,7 +2779,7 @@ html.no-csstransitions .home-content__main {
  * ------------------------------------------------------------------- */
 .s-works {
     background: #FFFFFF;
-    padding: 0 0 15rem 0;
+    padding: 0 0 0rem 0;
     min-height: 800px;
     position: relative;
 }
@@ -3061,7 +3061,7 @@ html.no-csstransitions .home-content__main {
 
 @media only screen and (max-width: 600px) {
     .s-works {
-        padding-bottom: 12rem;
+        /* padding-bottom: 12rem; */
     }
     .s-works .intro-wrap {
         padding: 5rem 0 22rem;
@@ -3380,7 +3380,7 @@ html.no-csstransitions .home-content__main {
     display: block;
     width: 2px;
     height: 20.4rem;
-    background-color: #56C1FF;
+    background-color: white;
     position: absolute;
     left: 50%;
     top: -10.2rem;
