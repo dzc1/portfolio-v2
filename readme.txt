@@ -2,7 +2,7 @@
 
 DESCRIPTION:
 
-This is Diego's Portfolio! test
+This is Diego's Portfolio!
 
 ==================================================================================================
 
