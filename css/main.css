@@ -79,7 +79,7 @@ body {
     font-size: 1.7rem;
     font-style: normal;
     font-weight: normal;
-    line-height: 1.765;
+    /* line-height: 1.765; */
     color: #757575;
     margin: 0;
     padding: 0;
