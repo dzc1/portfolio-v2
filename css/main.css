@@ -2409,6 +2409,9 @@ html.no-csstransitions .home-content__main {
         padding-top: 16.2rem;
         width: auto;
     }
+    .diego{
+        font-size: 3.2rem;
+    }
 }
 
 
@@ -4155,8 +4158,8 @@ footer .row {
   
 }
 .projects { 
-  width: 100%; 
-  height: auto; 
+    width: 100%; 
+    height: auto; 
 }
 @media screen and (max-width: 400px) {
   .paris { margin: 0; }
