@@ -1349,7 +1349,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
  * ## display headings
  * ------------------------------------------------------------------- */
 .display-1 {
-    font-family: 'poppins-regular', sans-serif;
+    font-family: 'poppins-bold', sans-serif;
 
     font-size: 4rem;
     line-height: 1.25;
@@ -1976,7 +1976,6 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 
 .home-content h3 {
     font-family: 'poppins-regular', sans-serif;
-
     font-size: 1.6rem;
     color: rgba(255, 255, 255, 0.75);
     text-transform: uppercase;
@@ -1989,7 +1988,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .diego {
-    font-family: 'poppins-bold', sans-serif;
+    font-family: 'poppins-bold', sans-serif !important;
     font-size: 6.3rem;
     line-height: 1.333;
     margin-top: 0;
