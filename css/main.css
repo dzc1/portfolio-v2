@@ -1988,7 +1988,17 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     text-align: center;
 }
 
-.home-content h1 {
+.diego {
+    font-family: 'poppins-bold', sans-serif;
+    font-size: 6.3rem;
+    line-height: 1.333;
+    margin-top: 0;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+
+/* . h1 {
     font-family: 'poppins-bold', sans-serif;
 
     font-size: 6.3rem;
@@ -1996,7 +2006,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     margin-top: 0;
     color: #FFFFFF;
     text-align: center;
-}
+} */
 
 .home-content__main {
     padding-top: 10rem;
@@ -4174,11 +4184,3 @@ footer .row {
 
 }
 
-.diego {
-    font-family: 'poppins-bold', sans-serif;
-    font-size: 6.3rem;
-    line-height: 1.333;
-    margin-top: 0;
-    color: #FFFFFF;
-    text-align: center;
-}
