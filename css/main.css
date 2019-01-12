@@ -86,15 +86,12 @@ body {
 }
 
 /* ------------------------------------------------------------------- 
- * ## Full size background 
+ * ## Avatar Placement on Desktop Version
  * ------------------------------------------------------------------- */
- /* .fullsize { 
-    background: url(images/dz.jpg) no-repeat center center fixed; 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-  } */
+ 
+ .avatar { 
+    padding-left: 40rem;
+  }
 
 
 
@@ -102,7 +99,7 @@ body {
  * ## links
  * ------------------------------------------------------------------- */
 a {
-    color: #00c6f5;
+    color: #0080FF;
     -webkit-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
 }
@@ -125,7 +122,7 @@ a:hover, a:active {
  .aboutme {
     font-size: 2.0rem;
     font-family: "poppins";
-    color: #FFFFFF;
+    color: #FFFAFF;
     font-style: normal;
     font-weight: normal;
     text-rendering: optimizeLegibility;
@@ -212,7 +209,7 @@ a:hover, a:active {
  /* .miami {
     font-size: 2.0rem;
     font-family: "poppins";
-    color: #FFFFFF;
+    color: #FFFAFF;
     font-style: normal;
     font-weight: normal;
     text-rendering: optimizeLegibility;
@@ -612,7 +609,7 @@ form,
 }
 
 .pace .pace-progress {
-    background: #56C1FF;
+    background: #0080FF;
     position: fixed;
     z-index: 900;
     top: 0;
@@ -655,7 +652,7 @@ form,
 }
 
 .line-scale-pulse-out > div {
-    background-color: #56C1FF;
+    background-color: #0080FF;
     width: 4px;
     height: 35px;
     border-radius: 2px;
@@ -945,9 +942,9 @@ button.btn--primary,
 input[type="submit"].btn--primary,
 input[type="reset"].btn--primary,
 input[type="button"].btn--primary {
-    background: #56C1FF;
-    border-color: #56C1FF;
-    color: #FFFFFF;
+    background: #0080FF;
+    border-color: #0080FF;
+    color: #FFFAFF;
 }
 
 .btn.btn--primary:hover,
@@ -985,8 +982,8 @@ input[type="button"].btn--primary:focus {
 
 .btn--stroke, button.btn--stroke {
     background: transparent !important;
-    border: 0.2rem solid #56C1FF;
-    color: #56C1FF;
+    border: 0.2rem solid #0080FF;
+    color: #0080FF;
 }
 
 .btn--stroke, button.btn--stroke {
@@ -1008,8 +1005,8 @@ input[type="button"].btn--primary:focus {
 }
 
 .btn--stroke:hover, button.btn--stroke:hover {
-    border: 0.2rem solid #56C1FF;
-    color: #56C1FF;
+    border: 0.2rem solid #0080FF;
+    color: #0080FF;
 }
 
 .btn--pill, button.btn--pill {
@@ -1290,7 +1287,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     display: block;
     font-family: 'poppins-regular', sans-serif;
 ;
-    color: #FFFFFF;
+    color: #FFFAFF;
     font-size: 1.1rem;
     line-height: 1;
     background: #000000;
@@ -1372,14 +1369,14 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 .display-2 {
     font-family: 'poppins-bold', sans-serif;
 
-    font-size: 5.2rem;
+    font-size: 3.2rem;
     line-height: 1.255;
     color: #000000;
     margin-top: 0;
 }
 
 .display-2--light {
-    color: #FFFFFF;
+    color: #FFFAFF;
 }
 
 .display-3 {
@@ -1417,8 +1414,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 
     font-size: 3.2rem;
     line-height: 1.25;
-    text-transform: uppercase;
-    color: #56C1FF;
+    color: #0080FF;
     margin-top: 0;
     margin-bottom: 0;
 }
@@ -1437,7 +1433,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
         font-size: 7.2rem;
     }
     .display-2 {
-        font-size: 4.4rem;
+        font-size: 3.2rem;
     }
 }
 
@@ -1685,7 +1681,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     letter-spacing: .25rem;
     margin-bottom: 4.8rem;
     margin-top: .9rem;
-    color: #56C1FF;
+    color: #0080FF;
 }
 
 .header-nav p {
@@ -1715,7 +1711,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 
 .header-nav__list a,
 .header-nav__list a:visited {
-    color: #FFFFFF;
+    color: #FFFAFF;
 }
 
 .header-nav__social {
@@ -1765,7 +1761,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     display: block;
     height: 2px;
     width: 12px;
-    background-color: #FFFFFF;
+    background-color: #FFFAFF;
     position: absolute;
     top: 50%;
     left: 9px;
@@ -1840,7 +1836,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .header-menu-toggle:hover, .header-menu-toggle:focus {
-    color: #FFFFFF;
+    color: #FFFAFF;
 }
 
 .header-menu-text {
@@ -1919,7 +1915,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     width: 100%;
     height: 100%;
     min-height: 786px;
-    background-color: transparent;
+    background: transparent;
     position: relative;
     display: table;
 }
@@ -1992,7 +1988,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     font-size: 6.3rem;
     line-height: 1.333;
     margin-top: 0;
-    color: #FFFFFF;
+    color: #FFFAFF;
     text-align: center;
 }
 
@@ -2003,7 +1999,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     font-size: 6.3rem;
     line-height: 1.333;
     margin-top: 0;
-    color: #FFFFFF;
+    color: #FFFAFF;
     text-align: center;
 } */
 
@@ -2020,8 +2016,8 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 
 .home-content__buttons .btn {
     width: 215px;
-    border-color: #FFFFFF;
-    color: #FFFFFF;
+    border-color: #FFFAFF;
+    color: #FFFAFF;
     margin: 1.5rem 1.5rem 0 0;
     letter-spacing: .25rem;
     -webkit-transition: all 0.5s ease-in-out;
@@ -2036,8 +2032,8 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 
 .aboutme-content__buttons .btn {
     width: 320px;
-    border-color: #FFFFFF;
-    color: #FFFFFF;
+    border-color: #FFFAFF;
+    color: #FFFAFF;
     margin: 1.5rem 1.5rem 0 0;
     letter-spacing: .25rem;
     -webkit-transition: all 0.5s ease-in-out;
@@ -2052,7 +2048,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 
 .home-content__buttons .btn:hover, 
 .home-content__buttons .btn:focus {
-    background: #FFFFFF !important;
+    background: #FFFAFF !important;
     color: #39b54a;
 }
 
@@ -2068,7 +2064,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     font-size: 1rem;
     text-transform: uppercase;
     letter-spacing: .3rem;
-    color: #FFFFFF;
+    color: #FFFAFF;
     position: relative;
     display: inline-block;
     line-height: 20rem;
@@ -2076,8 +2072,8 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .home-content__scroll a::before {
-    border-bottom: 2px solid #56C1FF;
-    border-right: 2px solid #56C1FF;
+    border-bottom: 2px solid #0080FF;
+    border-right: 2px solid #0080FF;
     content: '';
     display: block;
     height: 8px;
@@ -2157,7 +2153,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     width: 33px;
     height: 33px;
     line-height: calc(33px - 4px);
-    border: 2px solid #FFFFFF;
+    border: 2px solid #FFFAFF;
     border-radius: 50%;
 }
 
@@ -2389,6 +2385,10 @@ html.no-csstransitions .home-content__main {
     .home-social {
         display: none;
     }
+
+    .avatar {
+        padding-left: 0rem;
+    }
 }
 
 @media only screen and (max-width: 450px) {
@@ -2400,12 +2400,13 @@ html.no-csstransitions .home-content__main {
 @media only screen and (max-width: 400px) {
     .s-home {
         min-height: 630px;
+        background-position: right;
     }
     .home-content h1 {
         font-size: 3.2rem;
     }
     .home-content__main {
-        padding-top: 16.2rem;
+        padding-top: 10rem;
         width: auto;
     }
     .diego{
@@ -2422,7 +2423,7 @@ html.no-csstransitions .home-content__main {
 .s-about {
     padding-top: 16.2rem;
     padding-bottom: 9rem;
-    background-color: #56C1FF;
+    background-color: #0080FF;
     color: #010507;
     position: relative;
 }
@@ -2483,9 +2484,9 @@ html.no-csstransitions .home-content__main {
 
 .stats__count {
     font-family: 'poppins-regular', sans-serif;
-    font-size: 8.4rem;
+    font-size: 5.4rem;
     line-height: 1;
-    color: #FFFFFF;
+    color: #FFFAFF;
     position: relative;
     overflow: hidden;
     text-overflow: ellipsis;
@@ -2505,7 +2506,7 @@ html.no-csstransitions .home-content__main {
     display: block;
     width: 2px;
     height: 10.2rem;
-    background-color: #FFFFFF;
+    background-color: #FFFAFF;
     position: absolute;
     right: 7.2rem;
     top: 0;
@@ -2630,7 +2631,7 @@ html.no-csstransitions .home-content__main {
 .s-services {
     padding-top: 16.2rem;
     padding-bottom: 15rem;
-    background-color: #FFFFFF;
+    background-color: #FFFAFF;
     color: #757575;
     position: relative;
 }
@@ -2715,7 +2716,7 @@ html.no-csstransitions .home-content__main {
 
 .services-list .service-icon {
     float: left;
-    color: #56C1FF;
+    color: #0080FF;
     font-size: 4.8rem;
     margin-top: -.6rem;
 }
@@ -2811,15 +2812,15 @@ html.no-csstransitions .home-content__main {
  *
  * ------------------------------------------------------------------- */
 .s-works {
-    background: #FFFFFF;
+    background: #FFFAFF;
     padding: 0 0 0rem 0;
     min-height: 800px;
     position: relative;
 }
 
 .s-works .intro-wrap {
-    padding: 15rem 0 25.2rem;
-    background: #56C1FF;
+    padding: 6rem 0 6rem;
+    background: #0080FF;
 }
 
 .works-content {
@@ -3010,8 +3011,8 @@ html.no-csstransitions .home-content__main {
 
 .item-folio__project-link {
     display: block;
-    color: #FFFFFF;
-    box-shadow: 0 0 0 1px #FFFFFF;
+    color: #FFFAFF;
+    box-shadow: 0 0 0 1px #FFFAFF;
     border-radius: 50%;
     height: 4.2rem;
     width: 4.2rem;
@@ -3046,7 +3047,7 @@ html.no-csstransitions .home-content__main {
 .item-folio__project-link:hover,
 .item-folio__project-link:focus,
 .item-folio__project-link:active {
-    background-color: #FFFFFF;
+    background-color: #FFFAFF;
     color: #000000;
 }
 
@@ -3097,7 +3098,7 @@ html.no-csstransitions .home-content__main {
         padding-bottom: 12rem;
     } */
     .s-works .intro-wrap {
-        padding: 2rem 0 22rem;
+        padding: 2rem 0 4rem;
     }
     .works-content {
         margin-top: -25.2rem;
@@ -3354,7 +3355,7 @@ html.no-csstransitions .home-content__main {
  * ------------------------------------------------------------------- */
 .s-contact {
     background-color: #151515;
-    background-image: url("../images/contact-bg.jpg");
+    background-image: url("../images/contact-bg.png");
     background-repeat: no-repeat;
     background-position: center, center;
     padding-top: 15rem;
@@ -3394,8 +3395,8 @@ html.no-csstransitions .home-content__main {
     letter-spacing: .1rem;
     padding: 0 2rem;
     margin: 0;
-    color: #FFFFFF;
-    background: #56C1FF;
+    color: #FFFAFF;
+    background: #0080FF;
 }
 
 .s-contact .form-field label::after {
@@ -3406,7 +3407,7 @@ html.no-csstransitions .home-content__main {
     margin-top: -6px;
     border-top: 5px solid transparent;
     border-bottom: 5px solid transparent;
-    border-right: 5px solid #56C1FF;
+    border-right: 5px solid #0080FF;
 }
 
 .contact__line {
@@ -3435,12 +3436,12 @@ html.no-csstransitions .home-content__main {
 .contact-content h3 {
     margin-top: 0;
     margin-bottom: 6.6rem;
-    color: #FFFFFF;
+    color: #FFFAFF;
 }
 
 .contact-content h5 {
     margin-top: 0;
-    color: #56C1FF;
+    color: #0080FF;
 }
 
 .contact-content input[type="email"],
@@ -3466,8 +3467,8 @@ html.no-csstransitions .home-content__main {
 .contact-content input[type="password"]:focus,
 .contact-content textarea:focus,
 .contact-content select:focus {
-    color: #FFFFFF;
-    border-bottom: 1px solid #56C1FF;
+    color: #FFFAFF;
+    border-bottom: 1px solid #0080FF;
 }
 
 .contact-content button,
@@ -3558,7 +3559,7 @@ html.no-csstransitions .home-content__main {
 
 .contact-social li a:hover, 
 .contact-social li a:focus {
-    color: #56C1FF;
+    color: #0080FF;
 }
 
 .contact-social li:last-child {
@@ -3609,7 +3610,7 @@ html.no-csstransitions .home-content__main {
     font-size: 1.3rem;
     font-weight: bold;
     line-height: 1.846;
-    color: #FFFFFF;
+    color: #FFFAFF;
     letter-spacing: .2rem;
     text-transform: uppercase;
 }
@@ -3638,7 +3639,7 @@ html.no-csstransitions .home-content__main {
 .s-loader > div {
     width: 9px;
     height: 9px;
-    background-color: #FFFFFF;
+    background-color: #FFFAFF;
     border-radius: 100%;
     display: inline-block;
     margin-right: .9rem;
@@ -3762,7 +3763,7 @@ footer {
 }
 
 footer h4 {
-    color: #FFFFFF;
+    color: #FFFAFF;
     font-size: 1.6rem;
     line-height: 1.313;
     margin-top: 0;
@@ -3770,7 +3771,7 @@ footer h4 {
 }
 
 footer a {
-    color: #FFFFFF;
+    color: #FFFAFF;
 }
 
 footer a:hover, footer a:focus, footer a:active {
@@ -3836,7 +3837,7 @@ footer .row {
 }
 
 .footer-subscribe #mc-form input[type="email"]:focus {
-    color: #FFFFFF;
+    color: #FFFAFF;
 }
 
 .footer-subscribe #mc-form input[type="email"]::-webkit-input-placeholder {
@@ -3865,14 +3866,14 @@ footer .row {
     position: absolute;
     top: 0;
     right: 0;
-    color: #FFFFFF;
+    color: #FFFAFF;
     background: #39b54a;
     border-color: #39b54a;
     padding: 0 20px;
 }
 
 .footer-subscribe #mc-form label {
-    color: #FFFFFF;
+    color: #FFFAFF;
     font-family: 'poppins-regular', sans-serif;
 ;
     font-size: 1.3rem;
@@ -3943,7 +3944,7 @@ footer .row {
 }
 
 .go-top a:hover, .go-top a:focus {
-    color: #FFFFFF;
+    color: #FFFAFF;
 }
 
 
@@ -4153,7 +4154,9 @@ footer .row {
   -ms-flex: auto;
   flex: auto; 
   width: 500px; 
-  /* margin: .5vw;  */
+  margin: .2vw; 
+ 
+  
   
 }
 .projects { 
