@@ -2010,7 +2010,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 .home-content__buttons .btn:hover, 
 .home-content__buttons .btn:focus {
     background: #FFFAFF !important;
-    color: #39b54a;
+    color: #0080FF;
 }
 
 .home-content__scroll {
