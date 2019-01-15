@@ -333,7 +333,7 @@
                 $.ajax({
     
                     type: "POST",
-                    url: "https://diegozito.com/inc/sendEmail.php",
+                    url: "inc/sendEmail.php",
                     data: $(form).serialize(),
                     beforeSend: function() { 
     
