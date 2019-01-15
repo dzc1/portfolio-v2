@@ -44,6 +44,19 @@
         });
     };
 
+    // ========================================================================= //
+  //  Typed Js
+  // ========================================================================= //
+
+  var typed = $(".typed");
+
+  $(function() {
+    typed.typed({
+      strings: ["I am Diego Zito.", " I am a UX Designer.", "I am a UI Designer.", "I am a Front End Fanatic.", "I am a Musician"],
+      typeSpeed: 100,
+      loop: true,
+    });
+  });   
 
    /* Menu on Scrolldown
     * ------------------------------------------------------ */
@@ -452,3 +465,4 @@
         
         
 })(jQuery);
+
