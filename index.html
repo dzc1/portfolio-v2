@@ -29,6 +29,7 @@
     <link rel="stylesheet" href="css/base.css">
     <link rel="stylesheet" href="css/vendor.css">
     <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/imagehover.min.css">
 
     <!-- script
     ================================================== -->
@@ -97,10 +98,9 @@
     </header> <!-- end s-header -->
 
 
-    <!-- home
-        data-parallax="scroll" data-image-src="images/dztest.png" data-natural-width=3000 data-natural-height=2000 data-position-y=center
-        ================================================== -->
-        <section id="home" class="s-home">
+    <!-- home data-parallax="scroll" data-image-src="images/dztest.png" data-natural-width=3000 data-natural-height=2000 data-position-y=center
+    ================================================== -->
+    <section id="home" class="s-home">
 
         <div class="overlay"></div>
         <div class="shadow-overlay"></div>
@@ -168,6 +168,7 @@
                         Download CV & Cover Letter
                     </a>
                 </div>
+                
         </div> <!-- end about-desc -->
 
         <div class="row about-stats stats block-1-4 block-m-1-2 block-mob-full" data-aos="fade-up">
@@ -191,13 +192,19 @@
 
         </div> <!-- end about-stats -->
 
+        <div class="container">
+                <div class="arrow">
+                <a href="#services" class="scroll-link smoothscroll">
+                <img src="images/arrowwhite.png" alt="" /></a>
+                </div>
+        </div>
+
     </section> <!-- end s-about -->
 
 
     <!-- skills
     ================================================== -->
     <section id='services' class="s-services">
-
         <div class="row section-header has-bottom-sep" data-aos="fade-up">
             <div class="col-full">
                 <h3 class="subhead2">Check out my Skills</h3>
@@ -208,20 +215,14 @@
         <div class="row services-list block-1-2 block-tab-full padskills">
 
             <div class="col-block service-item" data-aos="fade-up">
-                <div class="service-icon">
-                    <i class="icon-paint-brush"></i>
-                </div>
                 <div class="service-text">
                     <h3 class="skills">UX Design</h3>
-                    <p>Place Info Here Diego
-                    </p>
+                    <!-- <p>Place Info Here Diego
+                    </p> -->
                 </div>
             </div>
 
-            <div class="col-block service-item" data-aos="fade-up">
-                <div class="service-icon">
-                    <i class="icon-group"></i>
-                </div>
+            <div class="col-block service-item">
                 <div class="service-text">
                     <h3 class="skills">UI Design</h3>
                     <p>Place Info Here Diego
@@ -229,10 +230,7 @@
                 </div>
             </div>
 
-            <div class="col-block service-item" data-aos="fade-up">
-                <div class="service-icon">
-                    <i class="icon-megaphone"></i>
-                </div>  
+            <div class="col-block service-item"> 
                 <div class="service-text">
                     <h3 class="skills">Product Design</h3>
                     <p>Place Info Here Diego
@@ -240,10 +238,7 @@
                 </div>
             </div>
 
-            <div class="col-block service-item" data-aos="fade-up">
-                <div class="service-icon">
-                    <i class="icon-earth"></i>
-                </div>
+            <div class="col-block service-item">
                 <div class="service-text">
                     <h3 class="skills">Information Architecture</h3>
                     <p>Place Info Here Diego
@@ -251,10 +246,7 @@
                 </div>
             </div>
 
-            <div class="col-block service-item" data-aos="fade-up">
-                <div class="service-icon">
-                    <i class="icon-cube"></i>
-                </div>
+            <div class="col-block service-item">
                 <div class="service-text">
                     <h3 class="skills">Agile Methodologies</h3>
                     <p>Place Info Here Diego
@@ -262,8 +254,7 @@
                 </div>
             </div>
     
-            <div class="col-block service-item" data-aos="fade-up">
-                <div class="service-icon"><i class="icon-lego-block"></i></div>
+            <div class="col-block service-item">
                 <div class="service-text">
                     <h3 class="skills">Web Development</h3>
                     <p>Place Info Here Diego
@@ -271,11 +262,17 @@
                 </div>
             </div>
 
+            
         </div> <!-- end skills-list -->
 
-    </section> <!-- end s-skills -->
-
-
+        <div class="container">
+                <div class="arrow">
+                <a href="#works" class="scroll-link smoothscroll">
+                <img src="images/arrowblue.png" alt="" /></a>
+                </div>
+        </div>
+    </section> <!-- end s-skills -->   
+        
     <!-- works
     ================================================== -->
     <section id='works' class="s-works">
@@ -289,16 +286,16 @@
                 </div>
             </div> <!-- end section-header -->
     
-            <div class="cool"> -->
+            <!-- <div class="cool"> 
     
-                <div class="paris">
+                <div class="paris imghvr-slide-down">
                     <a href="Second-Chance.html">
                             <img src="images/secondchancebanner.png" alt> 
                     </a>
                 </div>
                 <div class="paris">
                     <a href="Neighborly.html">
-                             <img src="images/neighborlybanner.png" alt> 
+                             <img src="images/neighborlybanner2.png" alt> 
                      </a>
                 </div>
                 <div class="paris">
@@ -311,7 +308,31 @@
                                      <img src="images/neighborlybanner.png" alt> 
                              </a>
                 </div>                
-            </div>
+            </div> -->
+
+            <div class="cool">
+                    <figure class="imghvr-slide-down paris"><img src="images/secondchancebanner.png" alt="example-image">
+                      <figcaption>
+                        <h3>What Up Gangsta</h3>
+                        <p>Life is too important to be taken seriously!</p>
+                      </figcaption>
+                      <a href="javascript:;"></a>
+                    </figure>
+                    <figure class="imghvr-slide-down paris"><img src="images/neighborlybanner.png" alt="example-image">
+                        <figcaption>
+                          <h3>Hello World</h3>
+                          <p>Life is too important to be taken seriously!</p>
+                        </figcaption>
+                        <a href="javascript:;"></a>
+                      </figure>
+                      <figure class="imghvr-slide-down paris"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/331810/example-image.jpg" alt="example-image">
+                        <figcaption>
+                          <h3>Hello World</h3>
+                          <p>Life is too important to be taken seriously!</p>
+                        </figcaption>
+                        <a href="javascript:;"></a>
+                      </figure>
+                  </div>
 
         </div> <!-- end intro-wrap -->
     </section> <!-- end s-works -->
