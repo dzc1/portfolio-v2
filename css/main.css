@@ -66,6 +66,7 @@ html {
 @media only screen and (max-width: 400px) {
     html {
         font-size: 9.411764705882353px;
+        height: 1110px;
     }
 }
 
@@ -158,6 +159,16 @@ a:hover, a:active {
     text-align: justify;
  }
 
+ .introduction-text-2 {
+    font-size: 1.6rem;
+    color: black;
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+    line-height: 20px;
+    text-align: unset;
+ }
+
  .introduction-text-italic {
     font-size: 1.6rem;
     color: black;
@@ -166,6 +177,10 @@ a:hover, a:active {
     text-rendering: optimizeLegibility;
     line-height: 20px;
     text-align: justify;
+ }
+
+ .mercury {
+     padding-top: 20px;
  }
 
 
@@ -1398,7 +1413,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
  * ------------------------------------------------------------------- */
 @media only screen and (max-width: 1200px) {
     .display-1 {
-        font-size: 7.2rem;
+        font-size: 6.5rem;
     }
     .display-2 {
         font-size: 3.2rem;
@@ -1927,9 +1942,9 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     display: table-cell;
     width: 100%;
     height: 100%;
-    vertical-align: middle;
     position: relative;
     overflow: hidden;
+    padding-top: 100px;
 }
 
 .home-content h3 {
@@ -1952,6 +1967,10 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     margin-top: 0;
     color: #FFFAFF;
     text-align: center;
+}
+
+.zito1 {
+    padding-bottom: 100px;
 }
 
 
@@ -2117,7 +2136,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .home-social span {
-    color: #39b54a;
+    color: #0080FF;
     right: 4.5rem;
     font-size: 1.3rem;
     opacity: 0;
@@ -2405,10 +2424,27 @@ html.no-csstransitions .home-content__main {
  *
  * ------------------------------------------------------------------- */
  .s-introduction {
-    padding-top: 2rem;
-    padding-bottom: 7rem;
+    padding-top: 6rem;
+    padding-bottom: 6rem;
     background-color: white;
     position: relative;
+}
+
+.s-introduction-neighborly {
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+    background-color: white;
+    position: relative;
+    height: 700px;
+}
+
+.ziggy {
+    padding-top: 8rem;
+}
+
+.pantin {
+    height: 400px;
+    width: 900px;
 }
 
 .s-introduction .section-header.has-bottom-sep::before {
@@ -2503,12 +2539,16 @@ html.no-csstransitions .home-content__main {
     .stats__col:nth-child(2n+1) {
         border-right: 1px solid rgba(255, 255, 255, 0.25);
     }
+    .hendrix {
+        padding-left: 90px;
+    }
 }
 
 @media only screen and (max-width: 800px) {
     .about-desc {
         font-size: 2rem;
         max-width: 600px;
+        padding-top: 20px;
     }
     .stats__count {
         font-size: 8rem;
@@ -2569,6 +2609,24 @@ html.no-csstransitions .home-content__main {
         background-image: none;
 
     }
+
+    .ziggy {
+        padding-top: 0rem;
+    }
+
+    .s-introduction-neighborly {
+        height: 900px;
+    }
+
+    .pantin {
+        height: 250px;
+        width: 300px;
+    }
+
+    .hendrix {
+        padding-left: 1px;
+    }
+    
 }
 
 @media only screen and (max-width: 400px) {
@@ -2577,6 +2635,9 @@ html.no-csstransitions .home-content__main {
     }
     .stats__count {
         font-size: 5rem;
+    }
+    .hendrix {
+        padding-left: 1px;
     }
 }
 
@@ -2600,8 +2661,8 @@ html.no-csstransitions .home-content__main {
  *
  * ------------------------------------------------------------------- */
  .s-work-areas {
-    padding-top: 2rem;
-    padding-bottom: 10rem;
+    padding-top: 6rem;
+    padding-bottom: 6rem;
     background-color:black;
     color: #757575;
     position: relative;
@@ -2612,11 +2673,12 @@ html.no-csstransitions .home-content__main {
  *
  * ------------------------------------------------------------------- */
  .s-work-areas-neighborly {
-    padding-top: 2rem;
-    padding-bottom: 10rem;
+    padding-top: 6rem;
+    padding-bottom: 6rem;
     background-color: #5864F8;
     color: #757575;
     position: relative;
+    height: 700px;
 }
 
 /* ===================================================================
@@ -2793,20 +2855,19 @@ html.no-csstransitions .home-content__main {
  * ------------------------------------------------------------------- */
  .s-research1 {
     background:white;
-    padding: 0 0 15rem 0;
     min-height: 800px;
     position: relative;
 }
 
 .s-research2 {
     background:white;
-    padding: 0 0 15rem 0;
+    padding: 6rem 0 6rem;
     min-height: 700px;
     position: relative;
 }
 
 .s-research1 .intro-wrap {
-    padding: 15rem 0 25.2rem;
+    padding: 6rem 0 6rem;
     background: white;
 }
 
@@ -3981,6 +4042,7 @@ footer .row {
  * ------------------------------------------------------------------- */
 .ironhack{
     padding-top: 1rem;
+    text-align: center;
 }
 
 
@@ -4039,3 +4101,17 @@ footer .row {
 
 }
 
+
+
+.padskills {
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+/* ------------------------------------------------------------------- 
+ * ## Hendrix - Image on User Research to resize the dimensions
+ * ------------------------------------------------------------------- */
+
+ .hendrix {
+    width: 600px;
+ }
