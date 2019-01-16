@@ -146,7 +146,7 @@ a:hover, a:active {
     font-weight: normal;
     text-rendering: optimizeLegibility;
     line-height: 25px;
-    padding-top: 100px;
+    padding-top: 200px;
  }
 
  .introduction-text {
@@ -210,6 +210,16 @@ a:hover, a:active {
     font-weight: normal;
     text-rendering: optimizeLegibility;
     line-height: 25px;
+ }
+
+ .scdemo2 {
+    font-size: 2.0rem;
+    color: black;
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+    line-height: 25px;
+    margin-top: 180px;
  }
 
  
@@ -2424,14 +2434,14 @@ html.no-csstransitions .home-content__main {
  *
  * ------------------------------------------------------------------- */
  .s-introduction {
-    padding-top: 6rem;
+    padding-top: 10rem;
     padding-bottom: 6rem;
     background-color: white;
     position: relative;
 }
 
 .s-introduction-neighborly {
-    padding-top: 6rem;
+    padding-top: 10rem;
     padding-bottom: 6rem;
     background-color: white;
     position: relative;
@@ -2439,7 +2449,7 @@ html.no-csstransitions .home-content__main {
 }
 
 .ziggy {
-    padding-top: 8rem;
+    padding-top: 2rem;
 }
 
 .pantin {
@@ -2510,6 +2520,13 @@ html.no-csstransitions .home-content__main {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
+    align-items: center;
+}
+
+.row3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     align-items: center;
 }
 
@@ -2615,7 +2632,7 @@ html.no-csstransitions .home-content__main {
     }
 
     .s-introduction-neighborly {
-        height: 900px;
+        height: 1000px;
     }
 
     .pantin {
@@ -2666,6 +2683,16 @@ html.no-csstransitions .home-content__main {
     background-color:black;
     color: #757575;
     position: relative;
+    height:700px;
+}
+
+.s-work-areas2 {
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+    background-color:black;
+    color: #757575;
+    position: relative;
+    height:1200px;
 }
 
 /* ===================================================================
@@ -2691,6 +2718,7 @@ html.no-csstransitions .home-content__main {
     background-color:white;
     color: #757575;
     position: relative;
+    height: 700px;
 }
 
 /* ===================================================================
@@ -2712,6 +2740,10 @@ html.no-csstransitions .home-content__main {
  * ------------------------------------------------------------------- */
 .services-list {
     margin-top: 6rem;
+}
+
+.services-list-2 {
+    margin-top: 0rem;
 }
 
 .services-list .service-item {
@@ -3957,19 +3989,24 @@ footer .row {
     margin-top: 50px;
 }
 
+.image3 {
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
  
 /* ------------------------------------------------------------------- 
  * ## Journey
  * ------------------------------------------------------------------- */
 
  .journey {
-    padding-top: 100px;
+    padding-top: 0px;
 }
 
 /* New Class for the button on the User Journey section of Second Chance */
 
 .journey-button{
-    margin-top: 30px;
+    margin-top: 0px;
 }
 
 
@@ -3996,7 +4033,13 @@ footer .row {
 .addicts{
     font-size: 2.0rem;
     font-weight: bold;
-    color: black;
+    color: #39b54a;
+}
+
+.addicts2{
+    font-size: 1.6rem;
+    font-weight: bold;
+    color: #39b54a;
 }
 
 /* ------------------------------------------------------------------- 
@@ -4132,7 +4175,15 @@ footer .row {
     -webkit-animation: arrow 1s both infinite;
     animation: arrow 1s both infinite;
   }
+
+  .container1{
+    padding-top: 4rem;
+  }
   
+  .container2{
+    padding-top: 8rem;
+  }
+
   @-webkit-keyframes arrow {
       0%, 20%, 50%, 80%, 100% {
         -webkit-transform: translateY(0);
@@ -4159,6 +4210,11 @@ footer .row {
 
   .gangsta {
       font-weight: 600;
+  }
+
+  .img-center-research{
+      max-width: 70%;
+      margin-left: 160px;
   }
 
 
