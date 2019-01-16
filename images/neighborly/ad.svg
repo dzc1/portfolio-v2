@@ -1,187 +1,106 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="2593px" height="1367px" viewBox="0 0 2593 1367" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
-    <title>AD</title>
+<svg width="8343px" height="3892px" viewBox="0 0 8343 3892" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>n-diagram</title>
     <desc>Created with Sketch.</desc>
-    <g id="Second-Chance" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="AD">
-            <g id="Heading">
-                <rect id="Rectangle" fill="#FF331F" x="0" y="0" width="2592.77958" height="229.668638" rx="1.23863038"></rect>
-                <text id="Second-Chance-/-Reha" font-family="Montserrat-SemiBold, Montserrat" font-size="51.609599" font-weight="500" letter-spacing="0.172032047" fill="#FFFFFF">
-                    <tspan x="803.771734" y="133.244599">Second Chance / Rehabilitiation APP </tspan>
+    <g id="Neighborly" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="n-diagram">
+            <g id="Heading" transform="translate(0.650240, 0.552160)">
+                <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="8341.41971" height="738.963456" rx="5.16096"></rect>
+                <text id="Neighborly" font-family="Montserrat-SemiBold, Montserrat" font-size="215.04" font-weight="500" letter-spacing="0.716800201" fill="#5864F8">
+                    <tspan x="3553.15424" y="446">Neighborly</tspan>
                 </text>
             </g>
-            <g id="mid-card-1" transform="translate(74.879999, 318.719994)">
-                <rect id="Rectangle-Copy" fill="#FF331F" x="0" y="0" width="656.545159" height="229.606498" rx="1.23863038"></rect>
-                <text id="Reasons-People-Do-Dr" font-family="Montserrat-SemiBold, Montserrat" font-size="41.2876792" font-weight="500" letter-spacing="0.137625625" fill="#FFFFFF">
-                    <tspan x="51.7953326" y="129.519998">Reasons People Do Drugs</tspan>
+            <g id="mid-card-1" transform="translate(0.000000, 872.000000)">
+                <rect id="Rectangle-Copy" fill="#FFFFFF" x="0" y="-5.68434189e-13" width="4008" height="886.956137" rx="6.193152"></rect>
+                <text id="Reasons-why-H.O.A-ex" font-family="Montserrat-SemiBold, Montserrat" font-size="206.4384" font-weight="500" letter-spacing="0.688128185" fill="#5864F8">
+                    <tspan x="956.877153" y="391">Reasons why H.O.A </tspan>
+                    <tspan x="1681.95763" y="643">exists</tspan>
                 </text>
             </g>
-            <g id="sub-1" transform="translate(17.760000, 624.479988)">
-                <g id="Group-4-Copy-2" transform="translate(536.782415, 0.000000)">
-                    <rect id="Rectangle-Copy" fill="#FFFFFF" x="0" y="0" width="234.174002" height="221.661672" rx="12.8670416"></rect>
-                    <text id="Craving’s" font-family="Montserrat-Medium, Montserrat" font-size="28.7070011" font-weight="400" letter-spacing="0.0956900009" fill="#000000">
-                        <tspan x="50.1135671" y="119.15932">Craving’s</tspan>
+            <g id="sub-1" transform="translate(561.000000, 2031.000000)">
+                <g id="Group-4-Copy-2" transform="translate(2072.641536, 0.000000)">
+                    <rect id="Rectangle-Copy" fill="#FFFFFF" x="0" y="0" width="904.200192" height="855.687168" rx="4.3352064"></rect>
+                    <text id="Voting" font-family="Montserrat-Medium, Montserrat" font-size="113.54112" font-weight="400" letter-spacing="0.378470421" fill="#5864F8">
+                        <tspan x="260.272374" y="469.202816">Voting</tspan>
                     </text>
                 </g>
-                <g id="Group-4-Copy-3" transform="translate(0.000000, 260.165026)">
-                    <rect id="Rectangle-Copy" fill="#FFFFFF" x="0" y="0" width="234.174002" height="221.661672" rx="12.8670416"></rect>
-                    <text id="Past-Traumas" font-family="Montserrat-Medium, Montserrat" font-size="28.7070011" font-weight="400" letter-spacing="0.0956900009" fill="#000000">
-                        <tspan x="17.5311208" y="119.15932">Past Traumas</tspan>
+                <g id="Group-4-Copy-3" transform="translate(0.000000, 1004.322816)">
+                    <rect id="Rectangle-Copy" fill="#FFFFFF" x="0" y="0" width="904.200192" height="855.687168" rx="4.3352064"></rect>
+                    <text id="Meetings" font-family="Montserrat-Medium, Montserrat" font-size="113.54112" font-weight="400" letter-spacing="0.378470421" fill="#5864F8">
+                        <tspan x="181.096366" y="469.202816">Meetings</tspan>
                     </text>
                 </g>
-                <g id="Group-4-Copy-4" transform="translate(268.391207, 260.165026)">
-                    <rect id="Rectangle-Copy" fill="#FFFFFF" x="0" y="0" width="234.174002" height="221.661672" rx="12.8670416"></rect>
-                    <text id="Disconnect-from-Real" font-family="Montserrat-Medium, Montserrat" font-size="28.7070011" font-weight="400" letter-spacing="0.0956900009" fill="#000000">
-                        <tspan x="33.8794529" y="91.5489053">Disconnect </tspan>
-                        <tspan x="80.8153998" y="126.548905">from </tspan>
-                        <tspan x="67.4666443" y="161.548905">Reality</tspan>
+                <g id="Group-4-Copy-4" transform="translate(1036.320768, 1004.322816)">
+                    <rect id="Rectangle-Copy" fill="#FFFFFF" x="0" y="0" width="904.200192" height="855.687168" rx="4.3352064"></rect>
+                    <text id="Problem-Solving" font-family="Montserrat-Medium, Montserrat" font-size="113.54112" font-weight="400" letter-spacing="0.378470421" fill="#5864F8">
+                        <tspan x="203.215089" y="399.2">Problem </tspan>
+                        <tspan x="238.356065" y="537.2">Solving</tspan>
                     </text>
                 </g>
-                <g id="Group-4-Copy-5" transform="translate(536.782415, 260.165026)">
-                    <rect id="Rectangle-Copy" fill="#FFFFFF" x="0" y="0" width="234.174002" height="221.661672" rx="12.8670416"></rect>
-                    <text id="Avoid-Problems" font-family="Montserrat-Medium, Montserrat" font-size="28.7070011" font-weight="400" letter-spacing="0.0956900009" fill="#000000">
-                        <tspan x="76.1457276" y="105.354113">Avoid </tspan>
-                        <tspan x="46.9794145" y="140.354113">Problems</tspan>
-                    </text>
-                </g>
-                <g id="Group-4-Copy-6" transform="translate(0.000000, 520.330052)">
-                    <rect id="Rectangle-Copy" fill="#FFFFFF" x="0" y="0" width="234.174002" height="221.661672" rx="12.8670416"></rect>
-                    <text id="Stress" font-family="Montserrat-Medium, Montserrat" font-size="28.7070011" font-weight="400" letter-spacing="0.0956900009" fill="#000000">
-                        <tspan x="73.3321365" y="119.15932">Stress</tspan>
-                    </text>
-                </g>
-                <g id="Group-4-Copy-7" transform="translate(268.391207, 520.330052)">
-                    <rect id="Rectangle-Copy" fill="#FFFFFF" x="0" y="0" width="234.174002" height="221.661672" rx="12.8670416"></rect>
-                    <text id="Sadness" font-family="Montserrat-Medium, Montserrat" font-size="28.7070011" font-weight="400" letter-spacing="0.0956900009" fill="#000000">
-                        <tspan x="56.7059983" y="119.15932">Sadness</tspan>
-                    </text>
-                </g>
-                <g id="Group-4-Copy-8" transform="translate(536.782415, 520.330052)">
-                    <rect id="Rectangle-Copy" fill="#FFFFFF" x="0" y="0" width="234.174002" height="221.661672" rx="12.8670416"></rect>
-                    <text id="Loneliness" font-family="Montserrat-Medium, Montserrat" font-size="28.7070011" font-weight="400" letter-spacing="0.0956900009" fill="#000000">
-                        <tspan x="39.8738216" y="119.15932">Loneliness</tspan>
-                    </text>
-                </g>
-                <g id="Group-4-Copy" transform="translate(268.391207, 0.000000)">
-                    <rect id="Rectangle-Copy" fill="#FFFFFF" x="0" y="0" width="234.174002" height="221.661672" rx="12.8670416"></rect>
-                    <text id="Active-User’s" font-family="Montserrat-Medium, Montserrat" font-size="28.7070011" font-weight="400" letter-spacing="0.0956900009" fill="#000000">
-                        <tspan x="71.52899" y="105.354113">Active </tspan>
-                        <tspan x="72.906926" y="140.354113">User’s</tspan>
+                <g id="Group-4-Copy" transform="translate(1036.320768, 0.000000)">
+                    <rect id="Rectangle-Copy" fill="#FFFFFF" x="0" y="0" width="904.200192" height="855.687168" rx="4.3352064"></rect>
+                    <text id="Allocation-of-Funds" font-family="Montserrat-Medium, Montserrat" font-size="113.54112" font-weight="400" letter-spacing="0.378470421" fill="#5864F8">
+                        <tspan x="88.5792767" y="400.045952">Allocation of </tspan>
+                        <tspan x="271.645409" y="538.045952">Funds</tspan>
                     </text>
                 </g>
                 <g id="Group-4">
-                    <rect id="Rectangle-Copy" fill="#FFFFFF" x="0" y="0" width="234.174002" height="221.661672" rx="12.8670416"></rect>
-                    <text id="Feeling’s-of-hopeles" font-family="Montserrat-Medium, Montserrat" font-size="28.7070011" font-weight="400" letter-spacing="0.0956900009" fill="#000000">
-                        <tspan x="52.2809457" y="91.5489053">Feeling’s</tspan>
-                        <tspan x="102.810052" y="126.548905">of </tspan>
-                        <tspan x="18.8516429" y="161.548905">hopelessness</tspan>
+                    <rect id="Rectangle-Copy" fill="#FFFFFF" x="0" y="0" width="904.200192" height="855.687168" rx="4.3352064"></rect>
+                    <text id="Community-Upkeep" font-family="Montserrat-Medium, Montserrat" font-size="113.54112" font-weight="400" letter-spacing="0.378470421" fill="#5864F8">
+                        <tspan x="106.935091" y="330.889088">Community</tspan>
+                        <tspan x="225.41525" y="468.889088">Upkeep </tspan>
                     </text>
                 </g>
             </g>
-            <g id="Sub-2" transform="translate(919.919982, 624.479988)">
-                <g id="Group-4-Copy-2" transform="translate(536.782415, 0.000000)">
-                    <rect id="Rectangle-Copy" fill="#FFFFFF" x="0" y="0" width="234.174002" height="221.661672" rx="12.8670416"></rect>
-                    <text id="Separation-from-Fami" font-family="Montserrat-Medium, Montserrat" font-size="28.7070011" font-weight="400" letter-spacing="0.0956900009" fill="#000000">
-                        <tspan x="37.4202881" y="105.354113">Separation </tspan>
-                        <tspan x="27.8560722" y="140.354113">from Family</tspan>
+            <g id="Sub-2" transform="translate(4813.000000, 2021.000000)">
+                <g id="Group-4-Copy-2" transform="translate(2072.641536, 0.000000)">
+                    <rect id="Rectangle-Copy" fill="#FFFFFF" x="0" y="0" width="904.200192" height="855.687168" rx="4.3352064"></rect>
+                    <text id="Favoritism" font-family="Montserrat-Medium, Montserrat" font-size="113.54112" font-weight="400" letter-spacing="0.378470421" fill="#5864F8">
+                        <tspan x="148.115351" y="468.8">Favoritism</tspan>
                     </text>
                 </g>
-                <g id="Group-4-Copy-3" transform="translate(0.000000, 260.165026)">
-                    <rect id="Rectangle-Copy" fill="#FFFFFF" x="0" y="0" width="234.174002" height="221.661672" rx="12.8670416"></rect>
-                    <text id="Separation-from-Frie" font-family="Montserrat-Medium, Montserrat" font-size="28.7070011" font-weight="400" letter-spacing="0.0956900009" fill="#000000">
-                        <tspan x="37.5539491" y="91.5489053">Separation</tspan>
-                        <tspan x="76.9064631" y="126.548905"> from </tspan>
-                        <tspan x="62.5433936" y="161.548905">Friends</tspan>
+                <g id="Group-4-Copy-3" transform="translate(0.000000, 1004.322816)">
+                    <rect id="Rectangle-Copy" fill="#FFFFFF" x="0" y="0" width="904.200192" height="855.687168" rx="4.3352064"></rect>
+                    <text id="Funds-Displacement" font-family="Montserrat-Medium, Montserrat" font-size="113.54112" font-weight="400" letter-spacing="0.378470421" fill="#5864F8">
+                        <tspan x="272.161505" y="330.889088">Funds </tspan>
+                        <tspan x="46.7066879" y="468.889088">Displacement</tspan>
                     </text>
                 </g>
-                <g id="Group-4-Copy-4" transform="translate(268.391207, 260.165026)">
-                    <rect id="Rectangle-Copy" fill="#FFFFFF" x="0" y="0" width="234.174002" height="221.661672" rx="12.8670416"></rect>
-                    <text id="Bankruptcy" font-family="Montserrat-Medium, Montserrat" font-size="28.7070011" font-weight="400" letter-spacing="0.0956900009" fill="#000000">
-                        <tspan x="31.5828929" y="119.15932">Bankruptcy</tspan>
+                <g id="Group-4-Copy-4" transform="translate(1036.320768, 1004.322816)">
+                    <rect id="Rectangle-Copy" fill="#FFFFFF" x="0" y="0" width="904.200192" height="855.687168" rx="4.3352064"></rect>
+                    <text id="Embezzlement" font-family="Montserrat-Medium, Montserrat" font-size="113.54112" font-weight="400" letter-spacing="0.378470421" fill="#5864F8">
+                        <tspan x="12.0875365" y="468.8">Embezzlement</tspan>
                     </text>
                 </g>
-                <g id="Group-4-Copy-5" transform="translate(536.782415, 260.165026)">
-                    <rect id="Rectangle-Copy" fill="#FFFFFF" x="0" y="0" width="234.174002" height="221.661672" rx="12.8670416"></rect>
-                    <text id="Pyschological-Issues" font-family="Montserrat-Medium, Montserrat" font-size="28.7070011" font-weight="400" letter-spacing="0.0956900009" fill="#000000">
-                        <tspan x="16.3825358" y="105.354113">Pyschological </tspan>
-                        <tspan x="72.409033" y="140.354113">Issues</tspan>
+                <g id="Group-4-Copy-5" transform="translate(2072.641536, 1004.322816)">
+                    <rect id="Rectangle-Copy" fill="#FFFFFF" x="0" y="0" width="904.200192" height="855.687168" rx="4.3352064"></rect>
+                    <text id="Fund-Preferences" font-family="Montserrat-Medium, Montserrat" font-size="113.54112" font-weight="400" letter-spacing="0.378470421" fill="#5864F8">
+                        <tspan x="300.792791" y="400.045952">Fund</tspan>
+                        <tspan x="107.640422" y="538.045952">Preferences</tspan>
                     </text>
                 </g>
-                <g id="Group-4-Copy-6" transform="translate(72.023765, 617.459824)" fill="#000000" font-family="Montserrat-Medium, Montserrat" font-size="22.7082235" font-weight="400" letter-spacing="0.0756940782">
-                    <text id="Stress">
-                        <tspan x="10.5074968" y="22.0295477">Stress</tspan>
-                    </text>
-                </g>
-                <g id="Group-4-Copy-8" transform="translate(0.000000, 520.330052)">
-                    <rect id="Rectangle-Copy" fill="#FFFFFF" x="0" y="0" width="234.174002" height="221.661672" rx="12.8670416"></rect>
-                    <text id="Mental-Unbalances" font-family="Montserrat-Medium, Montserrat" font-size="28.7070011" font-weight="400" letter-spacing="0.0956900009" fill="#000000">
-                        <tspan x="66.5375361" y="105.354113">Mental </tspan>
-                        <tspan x="31.2518472" y="140.354113">Unbalances</tspan>
-                    </text>
-                </g>
-                <g id="Group-4-Copy" transform="translate(268.391207, 0.000000)">
-                    <rect id="Rectangle-Copy" fill="#FFFFFF" x="0" y="0" width="234.174002" height="221.661672" rx="12.8670416"></rect>
-                    <text id="Change-in-Personal-B" font-family="Montserrat-Medium, Montserrat" font-size="28.7070011" font-weight="400" letter-spacing="0.0956900009" fill="#000000">
-                        <tspan x="41.7741833" y="91.5489053">Change in </tspan>
-                        <tspan x="53.2187078" y="126.548905">Personal </tspan>
-                        <tspan x="51.8120647" y="161.548905">Behavior</tspan>
+                <g id="Group-4-Copy" transform="translate(1036.320768, 0.000000)">
+                    <rect id="Rectangle-Copy" fill="#FFFFFF" x="0" y="0" width="904.200192" height="855.687168" rx="4.3352064"></rect>
+                    <text id="Misappropriation-of" font-family="Montserrat-Medium, Montserrat" font-size="96" font-weight="400" letter-spacing="0.320000052" fill="#5864F8">
+                        <tspan x="31.5919996" y="346.2">Misappropriation</tspan>
+                        <tspan x="404.056" y="463.2">of </tspan>
+                        <tspan x="299.224" y="580.2">Funds</tspan>
                     </text>
                 </g>
                 <g id="Group-4">
-                    <rect id="Rectangle-Copy" fill="#FFFFFF" x="0" y="0" width="234.174002" height="221.661672" rx="12.8670416"></rect>
-                    <text id="Addiction" font-family="Montserrat-Medium, Montserrat" font-size="28.7070011" font-weight="400" letter-spacing="0.0956900009" fill="#000000">
-                        <tspan x="45.6397544" y="119.15932">Addiction</tspan>
+                    <rect id="Rectangle-Copy" fill="#FFFFFF" x="0" y="0" width="904.200192" height="855.687168" rx="4.3352064"></rect>
+                    <text id="Excess-Spending" font-family="Montserrat-Medium, Montserrat" font-size="113.54112" font-weight="400" letter-spacing="0.378470421" fill="#5864F8">
+                        <tspan x="260.004572" y="399.2">Excess </tspan>
+                        <tspan x="170.780175" y="537.2">Spending</tspan>
                     </text>
                 </g>
             </g>
-            <g id="Sub-3-Copy" transform="translate(1821.599964, 631.439987)">
-                <g id="Group-4-Copy-2" transform="translate(536.782415, 0.000000)">
-                    <rect id="Rectangle-Copy" fill="#FFFFFF" x="0" y="0" width="234.174002" height="221.673177" rx="12.8670416"></rect>
-                    <text id="Meetings" font-family="Montserrat-Medium, Montserrat" font-size="28.7070011" font-weight="400" letter-spacing="0.0956900009" fill="#000000">
-                        <tspan x="48.5681736" y="119.165086">Meetings</tspan>
-                    </text>
-                </g>
-                <g id="Group-4-Copy-3" transform="translate(0.000000, 260.178530)">
-                    <rect id="Rectangle-Copy" fill="#FFFFFF" x="0" y="0" width="234.174002" height="221.673177" rx="12.8670416"></rect>
-                    <text id="Involvement-in-the-c" font-family="Montserrat-Medium, Montserrat" font-size="28.7070011" font-weight="400" letter-spacing="0.0956900009" fill="#000000">
-                        <tspan x="25.2437351" y="91.5546828">Involvement </tspan>
-                        <tspan x="74.6149926" y="126.554683">in the </tspan>
-                        <tspan x="31.7985004" y="161.554683">community</tspan>
-                    </text>
-                </g>
-                <g id="Group-4-Copy-4" transform="translate(268.391207, 260.178530)">
-                    <rect id="Rectangle-Copy" fill="#FFFFFF" x="0" y="0" width="234.174002" height="221.673177" rx="12.8670416"></rect>
-                    <text id="Sober-Events" font-family="Montserrat-Medium, Montserrat" font-size="28.7070011" font-weight="400" letter-spacing="0.0956900009" fill="#000000">
-                        <tspan x="21.17691" y="119.165086">Sober Events</tspan>
-                    </text>
-                </g>
-                <g id="Group-4-Copy" transform="translate(268.391207, 0.000000)">
-                    <rect id="Rectangle-Copy" fill="#FFFFFF" x="0" y="0" width="234.174002" height="221.673177" rx="12.8670416"></rect>
-                    <text id="Having-somebody-to-t" font-family="Montserrat-Medium, Montserrat" font-size="28.7070011" font-weight="400" letter-spacing="0.0956900009" fill="#000000">
-                        <tspan x="64.9550867" y="91.5546828">Having </tspan>
-                        <tspan x="39.6833567" y="126.554683">somebody </tspan>
-                        <tspan x="51.9173237" y="161.554683">to talk to</tspan>
-                    </text>
-                </g>
-                <g id="Group-4">
-                    <rect id="Rectangle-Copy" fill="#FFFFFF" x="0" y="0" width="234.174002" height="221.673177" rx="12.8670416"></rect>
-                    <text id="Support" font-family="Montserrat-Medium, Montserrat" font-size="28.7070011" font-weight="400" letter-spacing="0.0956900009" fill="#000000">
-                        <tspan x="57.5196684" y="119.165086">Support</tspan>
-                    </text>
-                </g>
-            </g>
-            <g id="Group-3-Copy" transform="translate(977.039981, 318.719994)">
-                <rect id="Rectangle-Copy" fill="#FF331F" x="0" y="0" width="656.660792" height="229.668638" rx="1.23863038"></rect>
-                <text id="Direct-Addiction-Iss" font-family="Montserrat-SemiBold, Montserrat" font-size="41.2876792" font-weight="500" letter-spacing="0.137625625" fill="#FFFFFF">
-                    <tspan x="152.354249" y="104.592215">Direct Addiction</tspan>
-                    <tspan x="256.812077" y="154.592215"> Issues</tspan>
-                </text>
-            </g>
-            <g id="Group-3-Copy-3" transform="translate(1878.719963, 325.439994)">
-                <rect id="Rectangle-Copy" fill="#FF331F" x="0" y="0" width="656.660792" height="229.668638" rx="1.23863038"></rect>
-                <text id="Recovery-Process" font-family="Montserrat-SemiBold, Montserrat" font-size="41.2876792" font-weight="500" letter-spacing="0.137625625" fill="#FFFFFF">
-                    <tspan x="141.041425" y="129.773418">Recovery Process</tspan>
+            <g id="Group-3-Copy" transform="translate(4289.000000, 870.000000)">
+                <rect id="Rectangle-Copy" fill="#FFFFFF" x="0" y="0" width="4048" height="887" rx="6.193152"></rect>
+                <text id="Issues-with-H.O.A" font-family="Montserrat-SemiBold, Montserrat" font-size="206.4384" font-weight="500" letter-spacing="0.688128185" fill="#5864F8">
+                    <tspan x="1426.1727" y="392">Issues with </tspan>
+                    <tspan x="1725.30195" y="644">H.O.A</tspan>
                 </text>
             </g>
         </g>
