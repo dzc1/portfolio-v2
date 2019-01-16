@@ -4157,10 +4157,14 @@ footer .row {
       }
   } 
 
+  .gangsta {
+      font-weight: 600;
+  }
+
 
   /* imghvr-slide-*
    ----------------------------- */
-[class^='imghvr-slide-']:hover figcaption,
+/* [class^='imghvr-slide-']:hover figcaption,
 [class*=' imghvr-slide-']:hover figcaption {
   -webkit-transform: translate(0, 0);
   transform: translate(0, 0);
@@ -4170,4 +4174,4 @@ footer .row {
     -webkit-transform: translateY(-100%);
     transform: translateY(-100%);
     background-color: inherit;
-  }
+  } */
