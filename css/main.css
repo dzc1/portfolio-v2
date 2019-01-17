@@ -159,6 +159,7 @@ a:hover, a:active {
     text-align: justify;
  }
 
+
  .introduction-text-2 {
     font-size: 1.6rem;
     color: black;
@@ -167,6 +168,16 @@ a:hover, a:active {
     text-rendering: optimizeLegibility;
     line-height: 20px;
     text-align: unset;
+ }
+
+ .introduction-text-3 {
+    font-size: 1.6rem;
+    color:white;
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+    line-height: 20px;
+    text-align: justify;
  }
 
  .introduction-text-italic {
@@ -2888,6 +2899,12 @@ html.no-csstransitions .home-content__main {
     position: relative;
 }
 
+.s-works3 {
+    background: black;
+    padding: 0 0 0rem;
+    position: relative;
+}
+
 .s-works .intro-wrap {
     padding: 6rem 0 6rem;
     background: #0080FF;
@@ -4232,6 +4249,10 @@ footer .row {
 
   .gangsta {
       font-weight: 600;
+  }
+
+  .dylan {
+      margin-left: 2rem;
   }
 
   /* .img-center-research{
